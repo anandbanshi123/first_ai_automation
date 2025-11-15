@@ -12,6 +12,7 @@ Project layout
 - requirements.txt: python deps
 
 Quick start (mac):
+Install NPM - node.js 
 1) Install deps:
    python -m pip install -r requirements.txt
    npx playwright install --with-deps

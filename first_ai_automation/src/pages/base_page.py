@@ -24,3 +24,7 @@ class BasePage:
 
     async def is_visible(self, selector):
         return await self.page.is_visible(selector)
+
+
+if __name__ == "__main__":
+    print("BasePage module loaded.")
