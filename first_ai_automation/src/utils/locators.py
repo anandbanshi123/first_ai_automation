@@ -18,3 +18,12 @@ SEARCH_RESULTS_ITEM = "selector-for-search-result-item"
 PRODUCT_PAGE_ADD_TO_CART_BUTTON = "selector-for-add-to-cart-button"
 PRODUCT_PAGE_PRODUCT_INFO = "selector-for-product-info"
 PRODUCT_PAGE_PRODUCT_IMAGE = "selector-for-product-image"
+
+
+
+
+__all__ = [
+    "HOME_PAGE_BANNER",
+    "HOME_PAGE_SEARCH_INPUT",
+    "HOME_PAGE_CATEGORY_LINKS",
+]

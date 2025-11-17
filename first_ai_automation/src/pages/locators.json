@@ -1,0 +1,15 @@
+{"login_page_locators" : {
+    "user": "//*[@id='username']",
+    "password": "//*[@id='password']",
+    "login_button": "//*[@id='loginBtn']",  
+    "search_box": "//*[@id='searchBox']",
+    "submit_button": "//*[@id='submitBtn']",
+    "header_logo": "//*[@id='headerLogo']"
+},
+"HomePageLocators" : {
+    "SEARCH_INPUT": "//*[@id='searchBox']",
+    "SEARCH_BUTTON": "//*[@id='searchBtn']",
+    "BANNER_LINKS": "//*[@class='banner-link']"
+}
+}
+ 
